@@ -1,0 +1,9 @@
+# IDE
+.vscode/
+
+# Compiled python
+__pycache__/
+*.pyc
+
+# Dirs
+src/
