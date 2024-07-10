@@ -1,7 +1,6 @@
 # SEA-AD Data Card
 
 ### Metadata data frame:
-`40026` rows
 Notable fields:
  |column name  | description |
  |:---|:---|
