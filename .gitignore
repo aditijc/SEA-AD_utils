@@ -9,3 +9,12 @@ __pycache__/
 # src/
 run/
 config/
+
+# Log files
+*.log 
+wandb/
+*.json
+*.wandb
+
+# Run scripts
+scripts/
